@@ -1,0 +1,24 @@
+Acordei
+Tomei café da manhã
+Escovei os dentes
+Mexi no celular
+Liguei o computador
+Mexi na internet
+Desliguei o computador
+Almocei
+Escovei os dentes
+Tomei banho
+Liguei o computador novamente
+Mexi na internet
+Desliguei o computador
+Mexi no celular
+Tomei café da tarde
+Escovei os dentes
+Liguei a televisão
+Jantei
+Abri um livro
+Li
+Fechei o livro
+Desliguei a televisão
+Deitei
+Dormi

@@ -1,0 +1,22 @@
+Mover o pinguim filhote de cachecol azul até o iceberg
+Mover o pinguim adulto de cachecol azul até o iceberg
+Mover o iceberg
+Mover o pinguim adulto de cachecol azul até a margem
+Mover o iceberg de volta até a outra margem
+Mover o pinguim filhote de cachecol verde até o iceberg
+Mover o iceberg
+Mover o pinguim filhote de cachecol azul até a margem
+Mover o iceberg de volta
+Mover o pinguim adulto de cachecol verde até o iceberg
+Mover o iceberg
+Mover o pinguim adulto de cachecol verde até a margem
+Mover o iceberg de volta
+Mover o pinguim filhote de cachecol vermelho até o iceberg
+Mover o iceberg
+Mover o pinguim filhote de cachecol vermelho até a margem
+Mover o iceberg de volta
+Mover o pinguim adulto de cachecol vermelho até o iceberg
+Mover o iceberg
+Mover o pinguim adulto de cachecol verde até a margem 
+Mover o pinguim filhote de cachecol vermelho até a margem
+Fim da travessia
